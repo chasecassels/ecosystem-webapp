@@ -1,6 +1,6 @@
 *.java linguist-language=Java
 *.html linguist-language=HTML
-*.css linguist-language=CSS
+*.xml linguist-language=XML
 *.js linguist-language=JavaScript
 *.sql linguist-language=SQL
 *.jsp linguist-language=JSP
