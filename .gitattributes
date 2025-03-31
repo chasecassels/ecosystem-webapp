@@ -1,7 +1,6 @@
-*.java linguist-generated
+*.java linguist-vendored
 *.html linguist-language=HTML
 *.xml linguist-language=XML
 *.js linguist-language=JavaScript
 *.sql linguist-language=SQL
 *.jsp linguist-language=JSP
-linguist-vendored=false
