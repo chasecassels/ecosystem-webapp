@@ -1,4 +1,4 @@
-*.java linguist-language=Java
+*.java linguist-detectable
 *.html linguist-language=HTML
 *.xml linguist-language=XML
 *.js linguist-language=JavaScript
