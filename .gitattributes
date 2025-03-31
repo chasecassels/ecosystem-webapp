@@ -4,3 +4,4 @@
 *.js linguist-language=JavaScript
 *.sql linguist-language=SQL
 *.jsp linguist-language=JSP
+linguist-vendored=false
