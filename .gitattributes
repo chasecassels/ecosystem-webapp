@@ -1,4 +1,5 @@
 *.java linguist-vendored
+*.java linguist-hidden
 *.html linguist-language=HTML
 *.xml linguist-language=XML
 *.js linguist-language=JavaScript
